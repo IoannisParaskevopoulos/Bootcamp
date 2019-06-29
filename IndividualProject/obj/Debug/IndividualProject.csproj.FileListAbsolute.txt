@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\IndividualProject(latest)\bin\Debug\IndividualProject.exe.config
+C:\Users\John\Desktop\IndividualProject(latest)\bin\Debug\IndividualProject.exe
+C:\Users\John\Desktop\IndividualProject(latest)\bin\Debug\IndividualProject.pdb
+C:\Users\John\Desktop\IndividualProject(latest)\obj\Debug\IndividualProject.csprojAssemblyReference.cache
+C:\Users\John\Desktop\IndividualProject(latest)\obj\Debug\IndividualProject.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\IndividualProject(latest)\obj\Debug\IndividualProject.exe
+C:\Users\John\Desktop\IndividualProject(latest)\obj\Debug\IndividualProject.pdb
